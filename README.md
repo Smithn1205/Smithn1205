@@ -119,10 +119,17 @@ I want my GitHub to show more than completed labs. I use it to show how I write 
 
 <div align="center">
 
-![SOC](https://img.shields.io/badge/SOC_Operations-learning_by_doing-111827?style=flat-square&logo=securityscorecard&logoColor=white)
-![IR](https://img.shields.io/badge/Incident_Response-evidence_first-111827?style=flat-square&logo=protonvpn&logoColor=white)
-![Cloud](https://img.shields.io/badge/Cloud_Security-Azure_%2B_AWS-111827?style=flat-square&logo=icloud&logoColor=white)
-![Identity](https://img.shields.io/badge/Identity-Zero_Trust-111827?style=flat-square&logo=auth0&logoColor=white)
+![SOC Operations](https://img.shields.io/badge/SOC_Operations-111827?style=for-the-badge&logo=securityscorecard&logoColor=white)
+![Incident Response](https://img.shields.io/badge/Incident_Response-111827?style=for-the-badge&logo=protonvpn&logoColor=white)
+
+**Learning by doing • Evidence first**
+
+<br>
+
+![Cloud Security](https://img.shields.io/badge/Cloud_Security-111827?style=for-the-badge&logo=icloud&logoColor=white)
+![Identity & Zero Trust](https://img.shields.io/badge/Identity_%26_Zero_Trust-111827?style=for-the-badge&logo=auth0&logoColor=white)
+
+**Azure + AWS • Identity-focused security**
 
 </div>
 
