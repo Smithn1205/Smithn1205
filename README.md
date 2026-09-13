@@ -18,10 +18,7 @@ smith@security-lab:~$ whoami
 Cybersecurity Master's student | SOC & Incident Response focused
 
 smith@security-lab:~$ current_focus
-Microsoft Sentinel • KQL • Threat Analysis • Cloud Security • Identity
-
-smith@security-lab:~$ research
-Zero Trust • SASE • SME Security Architecture
+Microsoft Sentinel • KQL • Log Analysis • Cloud Security • Identity
 
 smith@security-lab:~$ workflow
 Clue → Evidence → Pivot → Timeline → Conclusion → Response
@@ -52,7 +49,7 @@ Self-built investigations using Sentinel, KQL, Windows/Linux logs, timelines and
 <td width="33%" valign="top">
 
 ### 🔎 [KC7 Security Investigations](https://github.com/Smithn1205/KC7-Security-Investigations)
-Guided investigation write-ups focused on KQL, log correlation, VirusTotal, malware triage and attack reconstruction.
+Guided investigation write-ups focused on KQL, log correlation and attack reconstruction.
 
 </td>
 </tr>
