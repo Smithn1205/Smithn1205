@@ -37,9 +37,7 @@ Clue → Evidence → Pivot → Timeline → Conclusion → Response
 
 What I enjoy most is the investigation side of cybersecurity — starting with a clue, following activity across different logs, building a timeline, and figuring out what actually happened.
 
-<details>
-<summary><b>🔍 What I look for in an investigation</b></summary>
-<br>
+### 🔍 What I look for in an investigation
 
 - Suspicious authentication and account activity
 - Process execution and command-line evidence
@@ -47,8 +45,6 @@ What I enjoy most is the investigation side of cybersecurity — starting with a
 - Relationships between hosts, users, IPs, and indicators
 - Attack timelines and MITRE ATT&CK techniques
 - Evidence that supports containment and remediation decisions
-
-</details>
 
 ---
 
@@ -99,9 +95,7 @@ Guided investigation write-ups focused on KQL, log correlation and attack recons
 
 ## ⚙️ Security Toolkit
 
-<details open>
-<summary><b>🛰️ SIEM, Detection & Investigation</b></summary>
-<br>
+### 🛰️ SIEM, Detection & Investigation
 
 <div align="center">
 
@@ -113,11 +107,8 @@ Guided investigation write-ups focused on KQL, log correlation and attack recons
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
 
 </div>
-</details>
 
-<details open>
-<summary><b>☁️ Cloud, Identity & Network Security</b></summary>
-<br>
+### ☁️ Cloud, Identity & Network Security
 
 <div align="center">
 
@@ -129,11 +120,8 @@ Guided investigation write-ups focused on KQL, log correlation and attack recons
 ![Zero Trust](https://img.shields.io/badge/Zero_Trust-0052CC?style=for-the-badge&logo=icloud&logoColor=white)
 
 </div>
-</details>
 
-<details open>
-<summary><b>💻 Systems, Scripting & Workflow</b></summary>
-<br>
+### 💻 Systems, Scripting & Workflow
 
 <div align="center">
 
@@ -146,7 +134,6 @@ Guided investigation write-ups focused on KQL, log correlation and attack recons
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
-</details>
 
 ---
 
@@ -158,15 +145,9 @@ Guided investigation write-ups focused on KQL, log correlation and attack recons
 
 </div>
 
-<details>
-<summary><b>▶ See how that looks in practice</b></summary>
-<br>
-
 I want my GitHub to show more than completed labs. I use it to show how I write queries, move between log sources, validate suspicious activity, reconstruct timelines, and think about containment and remediation after the technical findings.
 
 > **The goal isn't to collect screenshots. It's to show the investigation behind them.**
-
-</details>
 
 ---
 
