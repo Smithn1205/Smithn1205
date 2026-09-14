@@ -1,30 +1,54 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Smith%20Nunes&fontAlign=50&fontAlignY=35&desc=SOC%20Analysis%20%E2%80%A2%20Incident%20Response%20%E2%80%A2%20Cloud%20Security%20%E2%80%A2%20Identity&descAlign=50&descAlignY=58" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=210&text=Smith%20Nunes&fontAlign=50&fontAlignY=34&desc=SOC%20Analysis%20%E2%80%A2%20Incident%20Response%20%E2%80%A2%20Cloud%20Security%20%E2%80%A2%20Identity&descAlign=50&descAlignY=58&animation=twinkling" width="100%" />
+
+<a href="https://github.com/Smithn1205/Cybersecurity-Portfolio"><img src="https://img.shields.io/badge/PORTFOLIO-00D9FF?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/smithnunes/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&width=700&lines=SOC+%7C+Incident+Response+%7C+Cloud+Security;Microsoft+Sentinel+%7C+KQL+%7C+Defender+XDR;Identity+%7C+Zero+Trust+%7C+Security+Investigations" alt="Typing animation" />
 
 ### 👋 Cybersecurity Master's student building practical SOC, incident-response, cloud, and identity security skills
-
-[![Portfolio](https://img.shields.io/badge/View_My-Cybersecurity_Portfolio-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Smithn1205/Cybersecurity-Portfolio)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Smith_Nunes-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/smithnunes/)
 
 </div>
 
 ---
 
-## 🖥️ Analyst Console
+## 🖥️ `analyst@security-lab:~$`
 
 ```text
-smith@security-lab:~$ whoami
+┌──────────────────────────────────────────────────────────────┐
+│  STATUS     ● ONLINE                                         │
+│  MODE       INVESTIGATION                                    │
+│  FOCUS      SOC • IR • CLOUD • IDENTITY                      │
+│  METHOD     EVIDENCE FIRST                                   │
+└──────────────────────────────────────────────────────────────┘
+
+$ whoami
 Cybersecurity Master's student | SOC & Incident Response focused
 
-smith@security-lab:~$ current_focus
+$ current_focus
 Microsoft Sentinel • KQL • Log Analysis • Cloud Security • Identity
 
-smith@security-lab:~$ workflow
+$ workflow
 Clue → Evidence → Pivot → Timeline → Conclusion → Response
 ```
 
 What I enjoy most is the investigation side of cybersecurity — starting with a clue, following activity across different logs, building a timeline, and figuring out what actually happened.
+
+<details>
+<summary><b>🔍 What I look for in an investigation</b></summary>
+<br>
+
+- Suspicious authentication and account activity
+- Process execution and command-line evidence
+- Network, DNS, email, and file activity
+- Relationships between hosts, users, IPs, and indicators
+- Attack timelines and MITRE ATT&CK techniques
+- Evidence that supports containment and remediation decisions
+
+</details>
 
 ---
 
@@ -32,24 +56,40 @@ What I enjoy most is the investigation side of cybersecurity — starting with a
 
 <table>
 <tr>
-<td width="33%" valign="top">
+<td width="33%" valign="top" align="center">
 
-### 🔐 [Cybersecurity Portfolio](https://github.com/Smithn1205/Cybersecurity-Portfolio)
-My main portfolio hub and the best place to start.
+### 🔐
+### [Cybersecurity Portfolio](https://github.com/Smithn1205/Cybersecurity-Portfolio)
 
-**Focus:** SOC, incident response, cloud security, identity.
+Main portfolio hub bringing together my hands-on security work.
+
+`SOC` `IR` `Cloud` `Identity`
+
+**[ OPEN → ](https://github.com/Smithn1205/Cybersecurity-Portfolio)**
 
 </td>
-<td width="33%" valign="top">
+<td width="33%" valign="top" align="center">
 
-### 🚨 [SOC Incident Response Lab](https://github.com/Smithn1205/SOC-Incident-Response-Lab)
+### 🚨
+### [SOC Incident Response Lab](https://github.com/Smithn1205/SOC-Incident-Response-Lab)
+
 Self-built investigations using Sentinel, KQL, Windows/Linux logs, timelines and ATT&CK mapping.
 
-</td>
-<td width="33%" valign="top">
+`Sentinel` `KQL` `IR`
 
-### 🔎 [KC7 Security Investigations](https://github.com/Smithn1205/KC7-Security-Investigations)
+**[ OPEN → ](https://github.com/Smithn1205/SOC-Incident-Response-Lab)**
+
+</td>
+<td width="33%" valign="top" align="center">
+
+### 🔎
+### [KC7 Security Investigations](https://github.com/Smithn1205/KC7-Security-Investigations)
+
 Guided investigation write-ups focused on KQL, log correlation and attack reconstruction.
+
+`KQL` `Threat Intel` `Investigation`
+
+**[ OPEN → ](https://github.com/Smithn1205/KC7-Security-Investigations)**
 
 </td>
 </tr>
@@ -59,7 +99,9 @@ Guided investigation write-ups focused on KQL, log correlation and attack recons
 
 ## ⚙️ Security Toolkit
 
-### 🛰️ SIEM, Detection & Investigation
+<details open>
+<summary><b>🛰️ SIEM, Detection & Investigation</b></summary>
+<br>
 
 <div align="center">
 
@@ -71,8 +113,11 @@ Guided investigation write-ups focused on KQL, log correlation and attack recons
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
 
 </div>
+</details>
 
-### ☁️ Cloud, Identity & Network Security
+<details open>
+<summary><b>☁️ Cloud, Identity & Network Security</b></summary>
+<br>
 
 <div align="center">
 
@@ -84,8 +129,11 @@ Guided investigation write-ups focused on KQL, log correlation and attack recons
 ![Zero Trust](https://img.shields.io/badge/Zero_Trust-0052CC?style=for-the-badge&logo=icloud&logoColor=white)
 
 </div>
+</details>
 
-### 💻 Systems, Scripting & Workflow
+<details open>
+<summary><b>💻 Systems, Scripting & Workflow</b></summary>
+<br>
 
 <div align="center">
 
@@ -98,6 +146,7 @@ Guided investigation write-ups focused on KQL, log correlation and attack recons
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
+</details>
 
 ---
 
@@ -105,13 +154,19 @@ Guided investigation write-ups focused on KQL, log correlation and attack recons
 
 <div align="center">
 
-**🔎 Clue** → **📚 Evidence** → **🔁 Pivot** → **🕒 Timeline** → **🧠 Conclusion** → **🛡️ Response**
+**🔎 CLUE** &nbsp;→&nbsp; **📚 EVIDENCE** &nbsp;→&nbsp; **🔁 PIVOT** &nbsp;→&nbsp; **🕒 TIMELINE** &nbsp;→&nbsp; **🧠 CONCLUSION** &nbsp;→&nbsp; **🛡️ RESPONSE**
 
 </div>
+
+<details>
+<summary><b>▶ See how that looks in practice</b></summary>
+<br>
 
 I want my GitHub to show more than completed labs. I use it to show how I write queries, move between log sources, validate suspicious activity, reconstruct timelines, and think about containment and remediation after the technical findings.
 
 > **The goal isn't to collect screenshots. It's to show the investigation behind them.**
+
+</details>
 
 ---
 
@@ -121,15 +176,14 @@ I want my GitHub to show more than completed labs. I use it to show how I write 
 
 ![SOC Operations](https://img.shields.io/badge/SOC_Operations-111827?style=for-the-badge&logo=securityscorecard&logoColor=white)
 ![Incident Response](https://img.shields.io/badge/Incident_Response-111827?style=for-the-badge&logo=protonvpn&logoColor=white)
+![Cloud Security](https://img.shields.io/badge/Cloud_Security-111827?style=for-the-badge&logo=icloud&logoColor=white)
+![Identity & Zero Trust](https://img.shields.io/badge/Identity_%26_Zero_Trust-111827?style=for-the-badge&logo=auth0&logoColor=white)
 
 **Learning by doing • Evidence first**
 
 <br>
 
-![Cloud Security](https://img.shields.io/badge/Cloud_Security-111827?style=for-the-badge&logo=icloud&logoColor=white)
-![Identity & Zero Trust](https://img.shields.io/badge/Identity_%26_Zero_Trust-111827?style=for-the-badge&logo=auth0&logoColor=white)
-
-**Azure + AWS • Identity-focused security**
+`Microsoft Sentinel` `KQL` `Azure` `AWS` `Microsoft Defender XDR` `Entra ID`
 
 </div>
 
@@ -139,8 +193,10 @@ I want my GitHub to show more than completed labs. I use it to show how I write 
 
 ### 🌐 Start here
 
-[**Cybersecurity Portfolio →**](https://github.com/Smithn1205/Cybersecurity-Portfolio)
+<a href="https://github.com/Smithn1205/Cybersecurity-Portfolio"><img src="https://img.shields.io/badge/ENTER%20THE%20PORTFOLIO-00D9FF?style=for-the-badge&logo=github&logoColor=white" /></a>
 
-<sub>Building the portfolio one investigation at a time.</sub>
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&animation=twinkling" width="100%" />
 
 </div>
