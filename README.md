@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=210&text=Smith%20Nunes&fontAlign=50&fontAlignY=34&desc=Cloud%20Security%20%E2%80%A2%20DevOps%20%E2%80%A2%20Cloud%20Infrastructure%20%E2%80%A2%20Cybersecurity&descAlign=50&descAlignY=58&animation=twinkling" width="100%" />
 
-<a href="https://github.com/Smithn1205/Cybersecurity-Portfolio"><img src="https://img.shields.io/badge/PORTFOLIO-00D9FF?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://github.com/Smithn1205/Cloud-Security-DevOps-Portfolio"><img src="https://img.shields.io/badge/PORTFOLIO-00D9FF?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="https://github.com/Smithn1205/devops-cicd-kubernetes-lab"><img src="https://img.shields.io/badge/DEVOPS_LAB-111827?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/smithnunes/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
@@ -63,13 +63,13 @@ Hands-on DevOps lab focused on GitLab, Jenkins, Docker, Kubernetes, CI/CD and au
 <td width="33%" valign="top" align="center">
 
 ### ☁️
-### [Cybersecurity Portfolio](https://github.com/Smithn1205/Cybersecurity-Portfolio)
+### [Cloud Security & DevOps Portfolio](https://github.com/Smithn1205/Cloud-Security-DevOps-Portfolio)
 
 Main portfolio hub bringing together my cloud, DevOps, security and cybersecurity work.
 
 `Cloud` `DevOps` `Security`
 
-**[ OPEN → ](https://github.com/Smithn1205/Cybersecurity-Portfolio)**
+**[ OPEN → ](https://github.com/Smithn1205/Cloud-Security-DevOps-Portfolio)**
 
 </td>
 <td width="33%" valign="top" align="center">
@@ -188,7 +188,7 @@ These experiences shape how I approach cloud and infrastructure: **build it, aut
 | Project | Focus |
 |---|---|
 | [DevOps CI/CD Kubernetes Lab](https://github.com/Smithn1205/devops-cicd-kubernetes-lab) | GitLab, Jenkins, Docker, Kubernetes, CI/CD |
-| [Cybersecurity Portfolio](https://github.com/Smithn1205/Cybersecurity-Portfolio) | Cloud, DevOps and cybersecurity work |
+| [Cloud Security & DevOps Portfolio](https://github.com/Smithn1205/Cloud-Security-DevOps-Portfolio) | Cloud, DevOps and cybersecurity work |
 | [SOC Incident Response Lab](https://github.com/Smithn1205/SOC-Incident-Response-Lab) | Sentinel, KQL, incident response |
 | [KC7 Security Investigations](https://github.com/Smithn1205/KC7-Security-Investigations) | KQL, log correlation, investigations |
 
@@ -208,7 +208,7 @@ These experiences shape how I approach cloud and infrastructure: **build it, aut
 
 <div align="center">
 
-<a href="https://github.com/Smithn1205/Cybersecurity-Portfolio"><img src="https://img.shields.io/badge/ENTER%20THE%20PORTFOLIO-00D9FF?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://github.com/Smithn1205/Cloud-Security-DevOps-Portfolio"><img src="https://img.shields.io/badge/ENTER%20THE%20PORTFOLIO-00D9FF?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 <br><br>
 
