@@ -177,7 +177,6 @@ Recent hands-on work includes:
 - Trivy container vulnerability scanning and vulnerability triage
 - Terraform / Infrastructure as Code with AzureRM
 - Helm-based Prometheus installation and basic PromQL monitoring
-- Linux/Bash troubleshooting and Kubernetes administration
 
 The main implementation and detailed technical notes are documented in the [DevOps CI/CD Kubernetes Lab](https://github.com/Smithn1205/devops-cicd-kubernetes-lab).
 
