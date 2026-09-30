@@ -38,7 +38,7 @@ Code → CI/CD → Container → Kubernetes → Secure Deployment
 
 I’m building my career at the intersection of **cloud infrastructure, DevOps, and cybersecurity**.
 
-My current focus is developing practical skills in **GitLab, Jenkins, Docker, Kubernetes, CI/CD and automated deployment**, while building on my existing experience with **Azure, AWS, identity, security monitoring and incident investigation**.
+My current focus is developing practical skills in **GitLab, Jenkins, Docker, Kubernetes, CI/CD, Terraform and monitoring**, while building on my existing experience with **Azure, AWS, identity, security monitoring and incident investigation**.
 
 My cybersecurity background gives me a security-first perspective on cloud and infrastructure, with hands-on work involving **Microsoft Sentinel, KQL, Microsoft Defender XDR, Entra ID, Zero Trust, network security and security investigations**.
 
@@ -53,9 +53,9 @@ My cybersecurity background gives me a security-first perspective on cloud and i
 ### ⚙️
 ### [DevOps CI/CD Kubernetes Lab](https://github.com/Smithn1205/devops-cicd-kubernetes-lab)
 
-Hands-on DevOps lab focused on GitLab, Jenkins, Docker, Kubernetes, CI/CD and automated deployment.
+Hands-on DevOps and platform engineering lab covering GitLab, Jenkins, Docker, Kubernetes, CI/CD, security scanning, Terraform and Prometheus monitoring.
 
-`GitLab` `Jenkins` `Docker` `Kubernetes`
+`GitLab` `Jenkins` `Docker` `Kubernetes` `Terraform` `Prometheus`
 
 **[ OPEN → ](https://github.com/Smithn1205/devops-cicd-kubernetes-lab)**
 
@@ -101,10 +101,14 @@ Hands-on investigations using Sentinel, KQL, Windows/Linux logs, timelines and M
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
+![Trivy](https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logo=aqua&logoColor=white)
 
 </div>
 
-> **Note:** These tools are part of my hands-on DevOps learning project; the flagship implementation is currently in progress.
+> **Note:** These tools are part of my hands-on DevOps and platform engineering learning work, with the flagship implementation documented in the DevOps CI/CD Kubernetes Lab.
 
 ### ☁️ Cloud, Identity & Security
 
@@ -158,9 +162,26 @@ Hands-on investigations using Sentinel, KQL, Windows/Linux logs, timelines and M
 
 <br>
 
-`GitLab` `Jenkins` `Docker` `Kubernetes` `Azure` `AWS` `Microsoft Defender XDR` `Entra ID`
+`GitLab` `Jenkins` `Docker` `Kubernetes` `Terraform` `Prometheus` `Helm` `Trivy` `Azure` `AWS` `Microsoft Defender XDR` `Entra ID`
 
 </div>
+
+## ⚙️ DevOps & Platform Engineering Practice
+
+Recent hands-on work includes:
+
+- Docker containerization and custom Jenkins agent images
+- Jenkins CI/CD pipelines with automated testing and Kubernetes deployment
+- Kubernetes Deployments, replicas, rolling updates and troubleshooting
+- Jenkins credentials handling and artifact archiving
+- Trivy container vulnerability scanning and vulnerability triage
+- Terraform / Infrastructure as Code with AzureRM
+- Helm-based Prometheus installation and basic PromQL monitoring
+- Linux/Bash troubleshooting and Kubernetes administration
+
+The main implementation and detailed technical notes are documented in the [DevOps CI/CD Kubernetes Lab](https://github.com/Smithn1205/devops-cicd-kubernetes-lab).
+
+---
 
 ---
 
