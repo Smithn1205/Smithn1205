@@ -62,14 +62,14 @@ Hands-on DevOps and platform engineering lab covering GitLab, Jenkins, Docker, K
 </td>
 <td width="33%" valign="top" align="center">
 
-### ☁️
-### [Cloud Security & DevOps Portfolio](https://github.com/Smithn1205/Cloud-Security-DevOps-Portfolio)
+### 🛡️
+### [Cloudflare Network Security & WAF Lab](https://github.com/Smithn1205/cloudflare-network-security-waf-lab)
 
-Main portfolio hub bringing together my cloud, DevOps, security and cybersecurity work.
+Hands-on Cloudflare security and performance lab covering DNS, TLS, custom security rules, rate limiting, Turnstile, caching and analytics.
 
-`Cloud` `DevOps` `Security`
+`Cloudflare` `WAF` `DNS` `TLS` `Security`
 
-**[ OPEN → ](https://github.com/Smithn1205/Cloud-Security-DevOps-Portfolio)**
+**[ OPEN → ](https://github.com/Smithn1205/cloudflare-network-security-waf-lab)**
 
 </td>
 <td width="33%" valign="top" align="center">
