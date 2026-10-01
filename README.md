@@ -209,6 +209,7 @@ These experiences shape how I approach cloud and infrastructure: **build it, aut
 |---|---|
 | [DevOps CI/CD Kubernetes Lab](https://github.com/Smithn1205/devops-cicd-kubernetes-lab) | GitLab, Jenkins, Docker, Kubernetes, CI/CD |
 | [Cloud Security & DevOps Portfolio](https://github.com/Smithn1205/Cloud-Security-DevOps-Portfolio) | Cloud, DevOps and cybersecurity work |
+| [Cloudflare Network Security & WAF Lab](https://github.com/Smithn1205/cloudflare-network-security-waf-lab) | DNS, TLS, security rules, rate limiting, Turnstile, caching and Cloudflare analytics |
 | [SOC Incident Response Lab](https://github.com/Smithn1205/SOC-Incident-Response-Lab) | Sentinel, KQL, incident response |
 | [KC7 Security Investigations](https://github.com/Smithn1205/KC7-Security-Investigations) | KQL, log correlation, investigations |
 
