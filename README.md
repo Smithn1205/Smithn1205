@@ -77,9 +77,9 @@ Hands-on Cloudflare security and performance lab covering DNS, TLS, custom secur
 ### 🛡️
 ### [SOC Incident Response Lab](https://github.com/Smithn1205/SOC-Incident-Response-Lab)
 
-Hands-on investigations using Sentinel, KQL, Windows/Linux logs, timelines and MITRE ATT&CK mapping.
+Hands-on SOC investigations using Elastic SIEM (ELK), Kibana, Sysmon, email-event analysis, Sentinel/KQL, incident timelines and attack-chain correlation.
 
-`Sentinel` `KQL` `IR`
+`Elastic SIEM` `Kibana` `Sysmon` `Phishing` `IR`
 
 **[ OPEN → ](https://github.com/Smithn1205/SOC-Incident-Response-Lab)**
 
@@ -129,6 +129,9 @@ Hands-on investigations using Sentinel, KQL, Windows/Linux logs, timelines and M
 
 ![Microsoft Sentinel](https://img.shields.io/badge/Microsoft_Sentinel-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![KQL](https://img.shields.io/badge/KQL-512BD4?style=for-the-badge&logo=microsoft&logoColor=white)
+![Elastic](https://img.shields.io/badge/Elastic_SIEM-005571?style=for-the-badge&logo=elastic&logoColor=white)
+![Kibana](https://img.shields.io/badge/Kibana-E8478B?style=for-the-badge&logo=kibana&logoColor=white)
+![Sysmon](https://img.shields.io/badge/Sysmon-Windows_Log_Analysis-0078D4?style=for-the-badge&logo=windows&logoColor=white)
 ![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-E34F26?style=for-the-badge&logo=target&logoColor=white)
 ![VirusTotal](https://img.shields.io/badge/VirusTotal-394EFF?style=for-the-badge&logo=virustotal&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
@@ -210,7 +213,7 @@ These experiences shape how I approach cloud and infrastructure: **build it, aut
 | [DevOps CI/CD Kubernetes Lab](https://github.com/Smithn1205/devops-cicd-kubernetes-lab) | GitLab, Jenkins, Docker, Kubernetes, CI/CD |
 | [Cloud Security & DevOps Portfolio](https://github.com/Smithn1205/Cloud-Security-DevOps-Portfolio) | Cloud, DevOps and cybersecurity work |
 | [Cloudflare Network Security & WAF Lab](https://github.com/Smithn1205/cloudflare-network-security-waf-lab) | DNS, TLS, security rules, rate limiting, Turnstile, caching and Cloudflare analytics |
-| [SOC Incident Response Lab](https://github.com/Smithn1205/SOC-Incident-Response-Lab) | Sentinel, KQL, incident response |
+| [SOC Incident Response Lab](https://github.com/Smithn1205/SOC-Incident-Response-Lab) | Elastic SIEM, Kibana, Sysmon, phishing triage, incident response |
 | [KC7 Security Investigations](https://github.com/Smithn1205/KC7-Security-Investigations) | KQL, log correlation, investigations |
 
 ---
